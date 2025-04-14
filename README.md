@@ -299,3 +299,11 @@ Systemy, gdzie dominuje jeden neuroprzekaźnik:
 | Glicyna | Hamowanie | Uspokojenie | Spastyczność |
 | Glutaminian | Pobudzanie | Ekscytotoksyczność  |
 
+
+*Serotonina jądra szwu dopamina jądro półleżące istota czarna* jeden wielki chuj
+
+
+
+
+
+
