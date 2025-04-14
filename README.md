@@ -2,7 +2,115 @@
 semestr 2, notatki
 
 
-# Neurochemia II – Notatki szczegółowe (część 2)
+# Neurochemia II 
+
+## Tematy główne
+- Najważniejsze neuromediatory i ich receptory
+- Systemy jednolitej transmisji synaptycznej i ich znaczenie
+
+---
+
+## Dlaczego neuroprzekaźniki są ważne?
+
+Neuroprzekaźniki modulują aktywność neuronów, m.in. w układzie limbicznym (przetwarzanie emocji).  
+Ich działanie zależy od typu receptora, na który oddziałują.
+
+---
+
+## Klasyfikacja neuroprzekaźników
+
+### Rodzaje:
+- **Aminokwasy**: glutaminian, asparaginian
+- **Zmodyfikowane aminokwasy**: acetylocholina
+- **Monoaminy**: serotonina, dopamina, noradrenalina, adrenalina
+- **Peptydy**: endorfiny, neuropeptyd Y
+- **Puryny**: adenozyna, ATP
+- **Gazy**: tlenek azotu (NO)
+
+### Działanie:
+- **Pobudzające**: glutaminian, acetylocholina, serotonina, dopamina, noradrenalina, adrenalina
+- **Hamujące**: GABA, glicyna
+- **Zależne od receptora**: dopamina, acetylocholina, serotonina, noradrenalina
+
+---
+
+## Układy jednolitej transmisji synaptycznej
+
+Systemy, gdzie dominuje jeden neuroprzekaźnik:
+
+- **Glicynergiczny** – glicyna
+- **GABA-ergiczny** – GABA
+- **Glutaminianergiczny** – glutaminian
+- **Cholinergiczny** – acetylocholina
+- **Dopaminergiczny** – dopamina
+- **Serotoninergiczny** – serotonina
+- **Noradrenergiczny** – noradrenalina
+- **Peptydoergiczny** – peptydy (np. oksytocyna)
+
+---
+
+## GABA (kwas gamma-aminomasłowy)
+
+### Charakterystyka:
+- Główny neuroprzekaźnik hamujący w OUN
+- Powstaje z glutaminianu przez enzym GAD (dekarboksylaza kwasu glutaminowego)
+
+### Działanie:
+- **Wysoki poziom**: senność, uspokojenie
+- **Niski poziom**: lęk, nadpobudliwość, bezsenność, padaczka
+
+### Receptory:
+- **GABA_A** (jonotropowy):
+  - Kanał chlorkowy (Cl⁻), szybkie hamowanie
+  - Powoduje hiperpolaryzację (napływ Cl⁻)
+- **GABA_B** (metabotropowy):
+  - Sprzężony z białkiem G
+  - Zmniejsza cAMP, aktywuje kanały K⁺ lub hamuje kanały Ca²⁺
+  - Wolniejsze, długotrwałe hamowanie
+
+### Lokalizacja:
+- Gałka blada, istota czarna, wzgórze
+- Móżdżek: komórki Purkinjego, gwiaździste, koszyczkowe
+
+---
+
+## Glicyna
+
+### Charakterystyka:
+- Główny neuroprzekaźnik hamujący w rdzeniu kręgowym i pniu mózgu
+
+### Działanie:
+- **Wysoki poziom**: zmniejszenie napięcia mięśniowego, uspokojenie
+- **Niski poziom**: spastyczność, drżenia
+
+### Receptor:
+- **GlyR** (receptor glicynowy, jonotropowy):
+  - Kanał chlorkowy (Cl⁻)
+  - Powoduje hiperpolaryzację i szybkie hamowanie
+
+### Patologie:
+- **Hiperekpleksja** – mutacje receptorów GlyR → nadmierne skurcze mięśni
+
+---
+
+## Glutaminian
+
+### Charakterystyka:
+- Główny neuroprzekaźnik pobudzający w OUN
+- Powstaje w cyklu Krebsa, z glutaminy (astrocyty) lub przez deaminację aminokwasów
+
+### Działanie:
+- **Wysoki poziom**: ekscytotoksyczność (udar, stres, padaczka)
+- **Niski poziom**: problemy z nauką, zaburzenia świadomości
+
+### Receptory:
+- **Jonotropowe**:
+  - **AMPA** – szybkie pobudzenie (Na⁺, K⁺)
+  - **NMDA** – plastyczność synaptyczna (Na⁺, K⁺, Ca²⁺); kofaktor: glicyna
+- **Metabotropowe**:
+  - **mGluR** – modulacja pobudliwości i uwalniania neurotransmiterów
+
+---
 
 ## Acetylocholina (ACh)
 
@@ -136,3 +244,58 @@ semestr 2, notatki
 - **Niski poziom**: brak energii, osłabiona reakcja na stres
 
 ---
+
+# Neurochemia II – Notatki szczegółowe (część 3)
+
+## Endogenne peptydy opioidowe
+
+### Ogólna charakterystyka:
+- Naturalne peptydowe neurotransmitery działające jak morfina
+- Działają wyłącznie na receptory **metabotropowe**
+- Wpływają na nastrój, zaufanie, ból, stres
+
+### Główne typy:
+- **β-endorfina**
+- **Enkefaliny**
+- **Dynorfina**
+- **Kazomorfina**
+
+---
+
+## Enkefaliny
+
+### Lokalizacja:
+- Gałka blada, prążkowie, układ limbiczny
+- Rdzeń kręgowy – hamowanie bólu
+
+### Działanie:
+- Wzrost zaufania, poprawa nastroju
+- Hamowanie bodźców bólowych
+
+---
+
+## Endorfiny
+
+### Lokalizacja:
+- Główne: jądro łukowate podwzgórza, przedni płat przysadki mózgowej
+
+### Działanie:
+- Regulacja wydzielania hormonów
+- Uczucie euforii, tłumienie bólu
+
+### Uwalnianie:
+- Śmiech, relaks, zakochanie, seks, czekolada, kapsaicyna (chili), wysiłek fizyczny ("euforia biegacza"), masaż, akupunktura
+
+### Niski poziom:
+- Nadwrażliwość na ból, skłonność do depresji
+
+---
+
+## Podsumowanie działania neurotransmiterów (skrót)
+
+| Neuroprzekaźnik | Działanie | Wysoki poziom | Niski poziom |
+|------------------|-----------|----------------|---------------|
+| GABA | Hamowanie | Senność, spokój | Lęk, bezsenność, padaczka |
+| Glicyna | Hamowanie | Uspokojenie | Spastyczność |
+| Glutaminian | Pobudzanie | Ekscytotoksyczność  |
+
